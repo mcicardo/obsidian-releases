@@ -4522,6 +4522,13 @@
     "repo": "nakalsio/obsidian-danpung"
   },
   {
+    "id": "obsidian-local-images-plus",
+    "name": "Local Images Plus",
+    "author": "sergei-korneev",
+    "description": "A reincarnation of Local Images to download images in Markdown notes to local storage.",
+    "repo": "sergei-korneev/obsidian-local-images-plus"
+  },
+  {
     "id": "google-photos",
     "name": "Google Photos",
     "author": "Alan Grainger",
@@ -37362,7 +37369,7 @@
     "id": "standard-garden",
     "name": "Standard Garden",
     "author": "zefish",
-    "description": "The obsidian plugin for managing and publishing your notes on standard.garden - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Publish Obsidian notes to a quiet, fast corner of the web with per-note typography. Safe by default. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zefish/obsidian-standard-garden"
   },
   {
@@ -42558,13 +42565,6 @@
     "author": "Pietro",
     "description": "Sync vault changes: quicky pull, push, and view git history from ribbon icons and commands. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "deltaplanoo/git-ribbon-sync"
-  },
-  {
-    "id": "mybrain",
-    "name": "myBrain",
-    "author": "Carl Bechstrom",
-    "description": "A high-performance semantic network graph displaying notes in structured Parents, Children, Friends, and Siblings quadrants. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "carlb01/myBrain"
   },
   {
     "id": "reading-progress-bookmarks",
@@ -70280,13 +70280,6 @@
     "repo": "bugstack27/obsidian-tag-relation"
   },
   {
-    "id": "literacy-assessment",
-    "name": "Literacy Teacher Workbench",
-    "author": "dreamook",
-    "description": "本地优先的素养评估工作台：按项目/行动收素材，AI 整理证据，生成行动、项目与学期总报告，并支持对外脱敏版。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pbl-edu/literacy-assessment"
-  },
-  {
     "id": "lovebites",
     "name": "LoveBites",
     "author": "penguinkat",
@@ -75054,6 +75047,13 @@
     "repo": "grizzzlyy/obsidian-filen-cloud-sync"
   },
   {
+    "id": "ringbook",
+    "name": "Ringbook",
+    "author": "Duarte Oliveira",
+    "description": "Browse your vault like a ring binder with OneNote-style navigation: notebooks and color-coded section tabs on the left, the notes of the selected section next to them. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "duarteoliveira-dev/obsidian-ringbook"
+  },
+  {
     "id": "piecemeal-git",
     "name": "piecemeal-git",
     "author": "somebodil",
@@ -77007,6 +77007,13 @@
     "repo": "mfaveri/obsidian-feather-shelf"
   },
   {
+    "id": "custom-visuals",
+    "name": "Custom Visuals",
+    "author": "Alvadio",
+    "description": "Customize colors, fonts, reading layout, and tables from a live sidebar with built-in dark/light presets and saved custom themes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alvadio/obsidian-custom-visuals"
+  },
+  {
     "id": "yuhanbo-workspaces",
     "name": "yuhanbo-workspaces",
     "author": "余汉波",
@@ -77159,5 +77166,12 @@
     "author": "raggedy-j",
     "description": "Syntax highlighting and column guides for COBOL and JCL code blocks, matching in Reading view, Live Preview and Source mode. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nickolaij94/obsidian-mainframe-code"
+  },
+  {
+    "id": "prosefix",
+    "name": "prosefix",
+    "author": "Andrew Brož",
+    "description": "Fix spelling, style, typos and punctuation in notes with prosefix, and settle the questions it can't decide in a side panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "andrewbroz/obsidian-prosefix"
   }
 ]
