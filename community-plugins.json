@@ -76447,6 +76447,13 @@
     "repo": "sumi1124/obsidian-pdf-tagger"
   },
   {
+    "id": "versedock",
+    "name": "SwordDock Bible",
+    "author": "dernestbank",
+    "description": "Read and search the World English Bible offline, study Hebrew and Greek with the Berean interlinear, and manage local Bible resources. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dernestbank/versedock-obsidian"
+  },
+  {
     "id": "float-search-window",
     "name": "Float Search Window",
     "author": "AiurArtanis",
@@ -77091,6 +77098,13 @@
     "repo": "lee-coderr/inkmark"
   },
   {
+    "id": "auto-roller",
+    "name": "Auto Roller",
+    "author": "pjeurien",
+    "description": "Adds a button to notes tagged autoroll that rolls every table on the page in order and shows the results in a popup you can copy from. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pjeurien/obsidian-auto-roller"
+  },
+  {
     "id": "ai-checker-humanizer",
     "name": "AI Checker Humanizer",
     "author": "Super Lede",
@@ -77145,5 +77159,19 @@
     "author": "SaaSCity",
     "description": "Generate SaaS launch readiness checklists and audit any URL's public launch metadata, Open Graph tags, and robots.txt. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nyyhao/obsidian-saascity-launch-checklist"
+  },
+  {
+    "id": "canvas-fullscreen",
+    "name": "Canvas Fullscreen",
+    "author": "daisen4",
+    "description": "Maximize a Canvas or selection in the app window, or show it fullscreen. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "daisen4/obsidian-canvas-fullscreen"
+  },
+  {
+    "id": "social-favboard",
+    "name": "Social Favboard",
+    "author": "Dajiaofish",
+    "description": "收藏夹画板：把社交媒体的喜欢与收藏（抖音 / B站 / 小红书）整理成白板卡片。浏览器旁路记录，不额外发请求，分类由你自己拖动决定。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dajiaofish/social-favboard-plugin"
   }
 ]
