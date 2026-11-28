@@ -42584,7 +42584,7 @@
     "id": "remarkable-tagged-sync",
     "name": "Tagged Sync for reMarkable",
     "author": "Thomas Hochbichler",
-    "description": "Sync tagged reMarkable notebooks, PDFs and EPUBs into Obsidian as searchable Markdown. Send papers from Zotero, send highlights back and to Readwise. Unofficial; not affiliated with reMarkable AS. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Sync tagged notebooks, PDFs and EPUBs from reMarkable to Obsidian as searchable Markdown. Handwriting is transcribed locally. No subscription. Not affiliated with reMarkable AS. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "thomas-hochbichler/obsidian-remarkable-tagged-sync"
   },
   {
@@ -43832,6 +43832,13 @@
     "author": "shimeoki",
     "description": "Manage your notes within a single store. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shimeoki/obsidian-store"
+  },
+  {
+    "id": "obmind",
+    "name": "MindBraid",
+    "author": "soren-ac",
+    "description": "Turn Markdown into an editable mind map. Read attached notes, style the map, and present it with saved decks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "soren-ac/MindBraid"
   },
   {
     "id": "symbat",
@@ -45589,6 +45596,13 @@
     "author": "glam",
     "description": "Connect your vault to a private Cloudflare R2 bucket for controlled synchronization. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ratatulieoi/obsidian-isomite"
+  },
+  {
+    "id": "floating-sticky-notes",
+    "name": "Floating Sticky Notes",
+    "author": "kasairo",
+    "description": "Create and manage floating sticky notes in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kasairo/floating-sticky-notes"
   },
   {
     "id": "papercraft",
@@ -55795,13 +55809,6 @@
     "author": "Walter Forkel",
     "description": "Record, transcribe, clean up, and append thoughts with configurable providers. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wko/obsidian-voice-notes"
-  },
-  {
-    "id": "exo-agent",
-    "name": "Exo Agent",
-    "author": "Mario Miletta",
-    "description": "An agentic AI assistant in your sidebar, powered by the Claude or Codex CLI. Your vault becomes its working directory — with a refined, theme-aware chat UI. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mariomile/obsidian-exo-agent"
   },
   {
     "id": "goko",
@@ -68726,13 +68733,6 @@
     "repo": "dernestbank/obsidian-brand-widget"
   },
   {
-    "id": "simple-mind",
-    "name": "Simple Mind",
-    "author": "张译哲",
-    "description": "Edit Markdown-outline mind maps with themes and a source view. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "fickit/simple-mind"
-  },
-  {
     "id": "onec-syntax-highlight",
     "name": "1C (BSL) Language Support",
     "author": "Sanal Tserenov",
@@ -77010,7 +77010,7 @@
     "id": "custom-visuals",
     "name": "Custom Visuals",
     "author": "Alvadio",
-    "description": "Customize colors, fonts, reading layout, and tables from a live sidebar with built-in dark/light presets and saved custom themes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Customize colors, fonts, reading layout, and table styling from a live sidebar with built-in dark/light presets. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "alvadio/obsidian-custom-visuals"
   },
   {
@@ -77173,5 +77173,12 @@
     "author": "Andrew Brož",
     "description": "Fix spelling, style, typos and punctuation in notes with prosefix, and settle the questions it can't decide in a side panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "andrewbroz/obsidian-prosefix"
+  },
+  {
+    "id": "git-zh-cn",
+    "name": "Git Simplified Chinese",
+    "author": "Aradia",
+    "description": "Translate the Git community plugin interface into Simplified Chinese. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aradia0001/obsidian-git-zh-cn"
   }
 ]
