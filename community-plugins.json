@@ -70925,10 +70925,10 @@
   },
   {
     "id": "more-periodic-notes",
-    "name": "More Periodic Notes",
+    "name": "Quick Open Periodic Note",
     "author": "RznBrn",
     "description": "Open this week's (ISO), this month's and this year's note with one command. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nachiketa3299/more-periodic-notes"
+    "repo": "nachiketa3299/quick-open-periodic-note"
   },
   {
     "id": "cloudbridge",
@@ -74319,13 +74319,6 @@
     "repo": "somebodil/the-switcher"
   },
   {
-    "id": "parrot-todo",
-    "name": "Parrot Todo",
-    "author": "parrot-23",
-    "description": "A weekly schedule planner with time blocks, event planning, and execution tracking. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "parrot-23/parrot-todo"
-  },
-  {
     "id": "faceless",
     "name": "Faceless",
     "author": "Precieux Fassinou",
@@ -76503,13 +76496,6 @@
     "repo": "hardbound-studio/clipverb-obsidian"
   },
   {
-    "id": "meeting-transcriber",
-    "name": "Meeting Transcriber",
-    "author": "bboidin",
-    "description": "Record online and in-person meetings, then insert a speaker-labelled transcript and summary into your notes using local models only. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "benoitboidin/obsidian-meeting-transcriber"
-  },
-  {
     "id": "data-architecture-mapper",
     "name": "Data Architecture Mapper",
     "author": "Alexandre Charbit",
@@ -77021,13 +77007,6 @@
     "repo": "mfaveri/obsidian-feather-shelf"
   },
   {
-    "id": "custom-visuals",
-    "name": "Custom Visuals",
-    "author": "Alvadio",
-    "description": "Customize colors, fonts, reading layout, and tables from a live sidebar with built-in dark/light presets and saved custom themes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "alvadio/obsidian-custom-visuals"
-  },
-  {
     "id": "yuhanbo-workspaces",
     "name": "yuhanbo-workspaces",
     "author": "余汉波",
@@ -77173,5 +77152,12 @@
     "author": "Dajiaofish",
     "description": "收藏夹画板：把社交媒体的喜欢与收藏（抖音 / B站 / 小红书）整理成白板卡片。浏览器旁路记录，不额外发请求，分类由你自己拖动决定。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dajiaofish/social-favboard-plugin"
+  },
+  {
+    "id": "mainframe-code-blocks",
+    "name": "Mainframe Code Blocks",
+    "author": "raggedy-j",
+    "description": "Syntax highlighting and column guides for COBOL and JCL code blocks, matching in Reading view, Live Preview and Source mode. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nickolaij94/obsidian-mainframe-code"
   }
 ]
